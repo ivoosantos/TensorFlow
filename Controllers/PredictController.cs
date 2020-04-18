@@ -35,3 +35,9 @@ namespace TensorFlowWebAPI.Controllers
         }
     }
 }
+
+
+
+/*
+ * Invoke-RestMethod "https://localhost:44361/api/predict" -Method Post -Body (@{SentimentText="This was a very bad steak"} | ConvertTo-Json) -ContentType "application/json"
+ * **/

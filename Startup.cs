@@ -30,6 +30,11 @@ namespace TensorFlowWebAPI
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddPredictionEnginePool<SentimentData, SentimentPrediction>()
                 .FromFile(modelName: "TensorFlowModel", filePath: "MLModels/sentiment_model.zip", watchForChanges: true);
+            //.FromUri(
+            //    modelName: "TensorFlowModel",
+            //    uri: "https://github.com/ivoosantos/TensorFlow/blob/master/MLModels/sentiment_model.zip",
+            //    period: TimeSpan.FromMinutes(1));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
