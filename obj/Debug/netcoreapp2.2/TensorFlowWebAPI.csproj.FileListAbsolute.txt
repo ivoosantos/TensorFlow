@@ -1,0 +1,13 @@
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\TensorFlowWebAPI.deps.json
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\TensorFlowWebAPI.runtimeconfig.json
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\TensorFlowWebAPI.runtimeconfig.dev.json
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\TensorFlowWebAPI.dll
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.csprojAssemblyReference.cache
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.RazorAssemblyInfo.cache
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.RazorAssemblyInfo.cs
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.AssemblyInfoInputs.cache
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.AssemblyInfo.cs
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.RazorTargetAssemblyInfo.cache
