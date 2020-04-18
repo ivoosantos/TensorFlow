@@ -11,3 +11,7 @@ C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.RazorAssembl
 C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.AssemblyInfoInputs.cache
 C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.AssemblyInfo.cs
 C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.RazorTargetAssemblyInfo.cache
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\MLModels\sentiment_model.zip
+C:\GitApi\TensorFlowWebAPI\bin\Debug\netcoreapp2.2\TensorFlowWebAPI.pdb
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.dll
+C:\GitApi\TensorFlowWebAPI\obj\Debug\netcoreapp2.2\TensorFlowWebAPI.pdb
